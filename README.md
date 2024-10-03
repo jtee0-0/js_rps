@@ -1,2 +1,2 @@
 # js_rps
-rock paper scissor game
+interactive rock paper scissor game built with js
